@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(120, 120, 120);
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background: darkgoldenrod;
+    color: #fff;
+    background-image: url("images/stock-vector-building-brick-vector-background-for-sales-promotion-vector-illustration-of-block-brick-toy-for-2116242794.jpg");
+    
+}
+
+nav a {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+}
+
+nav a:hover {
+    background: #797101;
+}
+
+#Banner {
+    width: 100%;
+    display: flex;
+}

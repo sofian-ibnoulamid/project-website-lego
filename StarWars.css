@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    margin: 0;
+}
+
+#star-wars-banner {
+    width: 100%;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background: darkgoldenrod;
+    color: #fff;
+    background-image: url("images/stock-vector-building-brick-vector-background-for-sales-promotion-vector-illustration-of-block-brick-toy-for-2116242794.jpg");
+}
+
+nav a {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+}
+
+nav a:hover {
+    background: #797101;
+}
